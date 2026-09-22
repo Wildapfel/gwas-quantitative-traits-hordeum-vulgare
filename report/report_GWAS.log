@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.6.16)  21 SEP 2026 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.6.16)  22 SEP 2026 10:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -461,205 +461,201 @@ st/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 <figures/scatter_matrix.png, id=69, 717.6411pt x 750.8853pt>
 File: figures/scatter_matrix.png Graphic file (type png)
 <use figures/scatter_matrix.png>
-Package pdftex.def Info: figures/scatter_matrix.png  used on input line 79.
-(pdftex.def)             Requested size: 480.81703pt x 503.09055pt.
+Package pdftex.def Info: figures/scatter_matrix.png  used on input line 75.
+(pdftex.def)             Requested size: 394.70383pt x 412.98819pt.
  [2 <./figures/scatter_matrix.png>]
 <figures/correlation_matrix.png, id=80, 375.0813pt x 319.4334pt>
 File: figures/correlation_matrix.png Graphic file (type png)
 <use figures/correlation_matrix.png>
-Package pdftex.def Info: figures/correlation_matrix.png  used on input line 117
+Package pdftex.def Info: figures/correlation_matrix.png  used on input line 114
 .
-(pdftex.def)             Requested size: 300.06544pt x 255.54704pt.
+(pdftex.def)             Requested size: 187.54019pt x 159.7163pt.
 <figures/gapit/GAPIT.Association.QQ.FarmCPU.HEA(NYC).pdf, id=81, 361.35pt x 361
 .35pt>
 File: figures/gapit/GAPIT.Association.QQ.FarmCPU.HEA(NYC).pdf Graphic file (typ
 e pdf)
 <use figures/gapit/GAPIT.Association.QQ.FarmCPU.HEA(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.QQ.FarmCPU.HEA(NYC).pd
-f  used on input line 131.
-(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+f  used on input line 128.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 <figures/gapit/GAPIT.Association.QQ.GLM.HEA(NYC).pdf, id=82, 361.35pt x 361.35p
 t>
 File: figures/gapit/GAPIT.Association.QQ.GLM.HEA(NYC).pdf Graphic file (type pd
 f)
 <use figures/gapit/GAPIT.Association.QQ.GLM.HEA(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.QQ.GLM.HEA(NYC).pdf  u
-sed on input line 132.
-(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+sed on input line 129.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 <figures/gapit/GAPIT.Association.QQ.FarmCPU.TGW(NYC).pdf, id=83, 361.35pt x 361
 .35pt>
 File: figures/gapit/GAPIT.Association.QQ.FarmCPU.TGW(NYC).pdf Graphic file (typ
 e pdf)
 <use figures/gapit/GAPIT.Association.QQ.FarmCPU.TGW(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.QQ.FarmCPU.TGW(NYC).pd
-f  used on input line 133.
-(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+f  used on input line 130.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 <figures/gapit/GAPIT.Association.QQ.GLM.TGW(NYC).pdf, id=84, 361.35pt x 361.35p
 t>
 File: figures/gapit/GAPIT.Association.QQ.GLM.TGW(NYC).pdf Graphic file (type pd
 f)
 <use figures/gapit/GAPIT.Association.QQ.GLM.TGW(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.QQ.GLM.TGW(NYC).pdf  u
-sed on input line 134.
-(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+sed on input line 131.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 <figures/gapit/GAPIT.Association.QQ.FarmCPU.HEI(NYC).pdf, id=85, 361.35pt x 361
 .35pt>
 File: figures/gapit/GAPIT.Association.QQ.FarmCPU.HEI(NYC).pdf Graphic file (typ
 e pdf)
 <use figures/gapit/GAPIT.Association.QQ.FarmCPU.HEI(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.QQ.FarmCPU.HEI(NYC).pd
-f  used on input line 143.
-(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+f  used on input line 132.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 <figures/gapit/GAPIT.Association.QQ.GLM.HEI(NYC).pdf, id=86, 361.35pt x 361.35p
 t>
 File: figures/gapit/GAPIT.Association.QQ.GLM.HEI(NYC).pdf Graphic file (type pd
 f)
 <use figures/gapit/GAPIT.Association.QQ.GLM.HEI(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.QQ.GLM.HEI(NYC).pdf  u
-sed on input line 144.
-(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+sed on input line 133.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 <figures/gapit/GAPIT.Association.QQ.FarmCPU.RIP(NYC).pdf, id=87, 361.35pt x 361
 .35pt>
 File: figures/gapit/GAPIT.Association.QQ.FarmCPU.RIP(NYC).pdf Graphic file (typ
 e pdf)
 <use figures/gapit/GAPIT.Association.QQ.FarmCPU.RIP(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.QQ.FarmCPU.RIP(NYC).pd
-f  used on input line 145.
-(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
+f  used on input line 134.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
 <figures/gapit/GAPIT.Association.QQ.GLM.RIP(NYC).pdf, id=88, 361.35pt x 361.35p
 t>
 File: figures/gapit/GAPIT.Association.QQ.GLM.RIP(NYC).pdf Graphic file (type pd
 f)
 <use figures/gapit/GAPIT.Association.QQ.GLM.RIP(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.QQ.GLM.RIP(NYC).pdf  u
-sed on input line 146.
-(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
-<figures/gapit/GAPIT.Association.QQ.FarmCPU.PM(NYC).pdf, id=89, 361.35pt x 361.
-35pt>
+sed on input line 135.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+ [3 <./figures/correlation_matrix.png> <./figures/gapit/GAPIT.Association.QQ.Fa
+rmCPU.HEA(NYC).pdf> <./figures/gapit/GAPIT.Association.QQ.GLM.HEA(NYC).pdf> <./
+figures/gapit/GAPIT.Association.QQ.FarmCPU.TGW(NYC).pdf> <./figures/gapit/GAPIT
+.Association.QQ.GLM.TGW(NYC).pdf> <./figures/gapit/GAPIT.Association.QQ.FarmCPU
+.HEI(NYC).pdf> <./figures/gapit/GAPIT.Association.QQ.GLM.HEI(NYC).pdf> <./figur
+es/gapit/GAPIT.Association.QQ.FarmCPU.RIP(NYC).pdf> <./figures/gapit/GAPIT.Asso
+ciation.QQ.GLM.RIP(NYC).pdf>]
+<figures/gapit/GAPIT.Association.QQ.FarmCPU.PM(NYC).pdf, id=161, 361.35pt x 361
+.35pt>
 File: figures/gapit/GAPIT.Association.QQ.FarmCPU.PM(NYC).pdf Graphic file (type
  pdf)
 <use figures/gapit/GAPIT.Association.QQ.FarmCPU.PM(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.QQ.FarmCPU.PM(NYC).pdf
-  used on input line 147.
-(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
-<figures/gapit/GAPIT.Association.QQ.GLM.PM(NYC).pdf, id=90, 361.35pt x 361.35pt
->
+  used on input line 145.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+<figures/gapit/GAPIT.Association.QQ.GLM.PM(NYC).pdf, id=162, 361.35pt x 361.35p
+t>
 File: figures/gapit/GAPIT.Association.QQ.GLM.PM(NYC).pdf Graphic file (type pdf
 )
 <use figures/gapit/GAPIT.Association.QQ.GLM.PM(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.QQ.GLM.PM(NYC).pdf  us
-ed on input line 148.
-(pdftex.def)             Requested size: 115.63435pt x 115.63435pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3 <./figures/correlation_matrix.png> <./figures/gapit/GAPIT.Association.QQ.Far
-mCPU.HEA(NYC).pdf> <./figures/gapit/GAPIT.Association.QQ.GLM.HEA(NYC).pdf> <./f
-igures/gapit/GAPIT.Association.QQ.FarmCPU.TGW(NYC).pdf> <./figures/gapit/GAPIT.
-Association.QQ.GLM.TGW(NYC).pdf>] [4 <./figures/gapit/GAPIT.Association.QQ.Farm
-CPU.HEI(NYC).pdf> <./figures/gapit/GAPIT.Association.QQ.GLM.HEI(NYC).pdf> <./fi
-gures/gapit/GAPIT.Association.QQ.FarmCPU.RIP(NYC).pdf> <./figures/gapit/GAPIT.A
-ssociation.QQ.GLM.RIP(NYC).pdf> <./figures/gapit/GAPIT.Association.QQ.FarmCPU.P
-M(NYC).pdf> <./figures/gapit/GAPIT.Association.QQ.GLM.PM(NYC).pdf>]
-<figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.HEA(NYC).pdf, id=184, 7
+ed on input line 146.
+(pdftex.def)             Requested size: 133.6974pt x 133.6974pt.
+<figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.HEA(NYC).pdf, id=163, 7
 22.7pt x 505.89pt>
 File: figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.HEA(NYC).pdf Graph
 ic file (type pdf)
 <use figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.HEA(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU
-.HEA(NYC).pdf  used on input line 169.
+.HEA(NYC).pdf  used on input line 167.
 (pdftex.def)             Requested size: 130.08038pt x 91.05626pt.
-<figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEA(NYC).pdf, id=185, 722.7
+<figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEA(NYC).pdf, id=164, 722.7
 pt x 505.89pt>
 File: figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEA(NYC).pdf Graphic f
 ile (type pdf)
 <use figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEA(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEA
-(NYC).pdf  used on input line 170.
+(NYC).pdf  used on input line 168.
 (pdftex.def)             Requested size: 130.08038pt x 91.05626pt.
-<figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.TGW(NYC).pdf, id=186, 7
+<figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.TGW(NYC).pdf, id=165, 7
 22.7pt x 505.89pt>
 File: figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.TGW(NYC).pdf Graph
 ic file (type pdf)
 <use figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.TGW(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU
-.TGW(NYC).pdf  used on input line 171.
+.TGW(NYC).pdf  used on input line 169.
 (pdftex.def)             Requested size: 130.08038pt x 91.05626pt.
-<figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.TGW(NYC).pdf, id=187, 722.7
+<figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.TGW(NYC).pdf, id=166, 722.7
 pt x 505.89pt>
 File: figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.TGW(NYC).pdf Graphic f
 ile (type pdf)
 <use figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.TGW(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.TGW
-(NYC).pdf  used on input line 172.
+(NYC).pdf  used on input line 170.
 (pdftex.def)             Requested size: 130.08038pt x 91.05626pt.
-<figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.HEI(NYC).pdf, id=188, 7
+<figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.HEI(NYC).pdf, id=167, 7
 22.7pt x 505.89pt>
 File: figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.HEI(NYC).pdf Graph
 ic file (type pdf)
 <use figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.HEI(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU
-.HEI(NYC).pdf  used on input line 174.
+.HEI(NYC).pdf  used on input line 172.
 (pdftex.def)             Requested size: 130.08038pt x 91.05626pt.
-<figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEI(NYC).pdf, id=189, 722.7
+<figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEI(NYC).pdf, id=168, 722.7
 pt x 505.89pt>
 File: figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEI(NYC).pdf Graphic f
 ile (type pdf)
 <use figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEI(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEI
-(NYC).pdf  used on input line 175.
+(NYC).pdf  used on input line 173.
 (pdftex.def)             Requested size: 130.08038pt x 91.05626pt.
-<figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.RIP(NYC).pdf, id=190, 7
+<figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.RIP(NYC).pdf, id=169, 7
 22.7pt x 505.89pt>
 File: figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.RIP(NYC).pdf Graph
 ic file (type pdf)
 <use figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.RIP(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU
-.RIP(NYC).pdf  used on input line 176.
+.RIP(NYC).pdf  used on input line 174.
 (pdftex.def)             Requested size: 130.08038pt x 91.05626pt.
-<figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.RIP(NYC).pdf, id=191, 722.7
+<figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.RIP(NYC).pdf, id=170, 722.7
 pt x 505.89pt>
 File: figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.RIP(NYC).pdf Graphic f
 ile (type pdf)
 <use figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.RIP(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.RIP
-(NYC).pdf  used on input line 177.
+(NYC).pdf  used on input line 175.
 (pdftex.def)             Requested size: 130.08038pt x 91.05626pt.
-<figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.PM(NYC).pdf, id=192, 72
+<figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.PM(NYC).pdf, id=171, 72
 2.7pt x 505.89pt>
 File: figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.PM(NYC).pdf Graphi
 c file (type pdf)
 <use figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.PM(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU
-.PM(NYC).pdf  used on input line 179.
+.PM(NYC).pdf  used on input line 177.
 (pdftex.def)             Requested size: 130.08038pt x 91.05626pt.
-<figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.PM(NYC).pdf, id=193, 722.7p
+<figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.PM(NYC).pdf, id=172, 722.7p
 t x 505.89pt>
 File: figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.PM(NYC).pdf Graphic fi
 le (type pdf)
 <use figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.PM(NYC).pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.PM(
-NYC).pdf  used on input line 180.
+NYC).pdf  used on input line 178.
 (pdftex.def)             Requested size: 130.08038pt x 91.05626pt.
- [5 <./figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.HEA(NYC).pdf> <./
-figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEA(NYC).pdf> <./figures/gap
-it/GAPIT.Association.Manhattan_Chro.FarmCPU.TGW(NYC).pdf> <./figures/gapit/GAPI
-T.Association.Manhattan_Chro.GLM.TGW(NYC).pdf> <./figures/gapit/GAPIT.Associati
-on.Manhattan_Chro.FarmCPU.HEI(NYC).pdf> <./figures/gapit/GAPIT.Association.Manh
-attan_Chro.GLM.HEI(NYC).pdf> <./figures/gapit/GAPIT.Association.Manhattan_Chro.
-FarmCPU.RIP(NYC).pdf> <./figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.RIP
-(NYC).pdf> <./figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.PM(NYC).pd
-f> <./figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.PM(NYC).pdf>]
-<figures/LD_significant_marker.png, id=283, 462.528pt x 346.896pt>
+ [4 <./figures/gapit/GAPIT.Association.QQ.FarmCPU.PM(NYC).pdf> <./figures/gapit
+/GAPIT.Association.QQ.GLM.PM(NYC).pdf> <./figures/gapit/GAPIT.Association.Manha
+ttan_Chro.FarmCPU.HEA(NYC).pdf> <./figures/gapit/GAPIT.Association.Manhattan_Ch
+ro.GLM.HEA(NYC).pdf> <./figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.
+TGW(NYC).pdf> <./figures/gapit/GAPIT.Association.Manhattan_Chro.GLM.TGW(NYC).pd
+f> <./figures/gapit/GAPIT.Association.Manhattan_Chro.FarmCPU.HEI(NYC).pdf> <./f
+igures/gapit/GAPIT.Association.Manhattan_Chro.GLM.HEI(NYC).pdf> <./figures/gapi
+t/GAPIT.Association.Manhattan_Chro.FarmCPU.RIP(NYC).pdf> <./figures/gapit/GAPIT
+.Association.Manhattan_Chro.GLM.RIP(NYC).pdf> <./figures/gapit/GAPIT.Associatio
+n.Manhattan_Chro.FarmCPU.PM(NYC).pdf> <./figures/gapit/GAPIT.Association.Manhat
+tan_Chro.GLM.PM(NYC).pdf>] [5]
+<figures/LD_significant_marker.png, id=284, 462.528pt x 346.896pt>
 File: figures/LD_significant_marker.png Graphic file (type png)
 <use figures/LD_significant_marker.png>
 Package pdftex.def Info: figures/LD_significant_marker.png  used on input line 
-231.
+230.
 (pdftex.def)             Requested size: 231.26343pt x 173.44757pt.
- [6 <./figures/LD_significant_marker.png>]
 <figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU.HEA.pdf,
- id=290, 433.62pt x 216.81pt>
+ id=285, 433.62pt x 216.81pt>
 File: figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU.HEA
 .pdf Graphic file (type pdf)
 <use figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU.HEA.
@@ -667,119 +663,65 @@ pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Phenotype.Distribution_Significant
 markers.FarmCPU.HEA.pdf  used on input line 244.
 (pdftex.def)             Requested size: 216.80946pt x 108.40472pt.
+ [6 <./figures/LD_significant_marker.png> <./figures/gapit/GAPIT.Phenotype.Dist
+ribution_Significantmarkers.FarmCPU.HEA.pdf>]
 <figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU.HEI.pdf,
- id=291, 433.62pt x 216.81pt>
+ id=299, 433.62pt x 216.81pt>
 File: figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU.HEI
 .pdf Graphic file (type pdf)
 <use figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU.HEI.
 pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Phenotype.Distribution_Significant
-markers.FarmCPU.HEI.pdf  used on input line 255.
+markers.FarmCPU.HEI.pdf  used on input line 257.
 (pdftex.def)             Requested size: 216.80946pt x 108.40472pt.
 <figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU.RIP.pdf,
- id=292, 433.62pt x 216.81pt>
+ id=300, 433.62pt x 216.81pt>
 File: figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU.RIP
 .pdf Graphic file (type pdf)
 <use figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU.RIP.
 pdf>
 Package pdftex.def Info: figures/gapit/GAPIT.Phenotype.Distribution_Significant
-markers.FarmCPU.RIP.pdf  used on input line 266.
+markers.FarmCPU.RIP.pdf  used on input line 269.
 (pdftex.def)             Requested size: 216.80946pt x 108.40472pt.
  [7 <./figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU.HE
-A.pdf> <./figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU
-.HEI.pdf> <./figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.Farm
-CPU.RIP.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
+I.pdf> <./figures/gapit/GAPIT.Phenotype.Distribution_Significantmarkers.FarmCPU
+.RIP.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
 
-Overfull \hbox (1.89853pt too wide) in paragraph at lines 301--306
+Overfull \hbox (1.89853pt too wide) in paragraph at lines 303--308
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--309
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
 
  []
 
 
-Overfull \hbox (19.67906pt too wide) in paragraph at lines 310--316
+Overfull \hbox (19.67906pt too wide) in paragraph at lines 312--318
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--316
+Underfull \hbox (badness 10000) in paragraph at lines 312--318
 
  []
-
-
-! LaTeX Error: Unicode character α (U+03B1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.326 				\item For the RIP markers, α
-                                        is negative (SCRI\_RS\_155612 = −1...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character − (U+2212)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.326 ...s, α is negative (SCRI\_RS\_155612 = −
-                                                  1.62, SCRI\_RS\_170337 = �...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character − (U+2212)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.326 ..._155612 = −1.62, SCRI\_RS\_170337 = −
-                                                  0.59)
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character α (U+03B1)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.327 				\item Negative α
-                            means B allele → earlier ripening (RIP decreas...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
 
 [8] (./report_GWAS.aux)
 Package rerunfilecheck Info: File `report_GWAS.out' has not changed.
-(rerunfilecheck)             Checksum: 4D3F6F33F9011A8D9A8AC243ED2C10EB;1724.
+(rerunfilecheck)             Checksum: DB389E9A3DA7EE3358D9D0031D36FA55;1802.
  ) 
 Here is how much of TeX's memory you used:
- 12822 strings out of 477985
- 211865 string characters out of 5839380
+ 12820 strings out of 477985
+ 211854 string characters out of 5839380
  1865388 words of memory out of 6000000
- 32822 multiletter control sequences out of 15000+600000
+ 32820 multiletter control sequences out of 15000+600000
  517052 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,76p,401b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,76p,484b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
@@ -789,12 +731,12 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist
 type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000
-.pfb>
-Output written on report_GWAS.pdf (8 pages, 586845 bytes).
+/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on report_GWAS.pdf (8 pages, 601172 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 293 compressed objects within 3 object streams
+ 385 PDF objects out of 1000 (max. 8388607)
+ 296 compressed objects within 3 object streams
  30 named destinations out of 1000 (max. 500000)
  219 words of extra memory for PDF output out of 10000 (max. 10000000)
 

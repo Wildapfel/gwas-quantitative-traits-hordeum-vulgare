@@ -27,9 +27,14 @@ quantitative_GWAS_hordeum_vulgare/
 ## Data
 This data was provided during an exercise series in Population Genetics and Quantitative Genetics and includes phenotype trait data and genotype data. It consists of 120 breeding lines of barley with 93 known gene markers.This data was anonymized before uploading to GitHub, meaning I removed the raw data, and removed measurements in .csv files that I produced. 
 
-## Install docker (R image)
+## Prerequisite for Execution 
+- Install environment  
 ```bash
+micromamba env create --file environment.yml
+```
 
+- Install docker (R image)
+```bash
 cd docker/r-bioinfo
 docker build -t r-gwas -f r-gwas.dockerfile .
 cd .. && cd ..

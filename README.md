@@ -17,7 +17,7 @@ quantitative_GWAS_hordeum_vulgare/
 ├── report/                 # TeX Document with figures
 ├── scripts/                # GWAS and LD Scripts
 ├── src/                    # Source Code
-├── .env                    # Some Path Variale declarations (PYTHONPATH)
+├── .env                    # Some Path Variable declarations (PYTHONPATH)
 ├── environment.yml         # Base environment   
 ├── Makefile                # make
 └── README.md               # Overview
@@ -32,10 +32,12 @@ This data was provided during an exercise series in Population Genetics and Quan
 ```bash
 micromamba env create --file environment.yml
 ```
-
 - Install docker (R image)
 ```bash
 cd docker/r-bioinfo
 docker build -t r-gwas -f r-gwas.dockerfile .
 cd .. && cd ..
 ```
+
+## Report
+- Jump directly to the [report](https://github.com/Wildapfel/gwas-quantitative-traits-hordeum-vulgare/blob/master/report/report_GWAS.pdf) 

@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Summary}{1}{section.1}%
+\contentsline {section}{\numberline {2}Phenotype}{2}{section.2}%
+\contentsline {section}{\numberline {3}GWAS}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Model Evalutation}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Manhattan Plots}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Analysis}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Significant Marker}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Linkage Disequilibrium (LD)}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Phenotype Distribution of Signficant Markers wrt. trait}{7}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Marker-assisted selection (trait prediction)}{8}{section.5}%
+\contentsline {section}{\numberline {6}Breeding-Implications}{8}{section.6}%

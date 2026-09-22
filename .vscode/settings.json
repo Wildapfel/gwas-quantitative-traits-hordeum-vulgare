@@ -1,0 +1,8 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python.analysis.extraPaths": [
+        "/var/home/max-inspiron/Workbench/projects",
+        "/var/home/max-inspiron/Workbench/projects/quantitative_GWAS_hordeum_vulgare/"
+    ]
+}

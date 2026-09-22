@@ -1,0 +1,8 @@
+name: gwas-env
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - scikit-learn
+  - openpyxl
